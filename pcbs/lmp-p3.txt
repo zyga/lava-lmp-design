@@ -1,0 +1,1 @@
+This is the same as the p2 boards except the sdmux board has 6 x 100n 0603 extra and P61 is on the other side of the board.
